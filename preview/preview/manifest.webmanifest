@@ -1,0 +1,16 @@
+{
+  "name": "Morning Star Sports Club — Safe Preview",
+  "short_name": "Morning Star",
+  "description": "Read-only preview for Kodangai–Vittal club. No member account or live services.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061b38",
+  "theme_color": "#061b38",
+  "lang": "kn",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
